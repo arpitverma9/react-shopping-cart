@@ -1,72 +1,70 @@
 {
     "products": [
         {
-            "id": "dress1",
+            "id": "1",
             "title": "Dress 1",
             "image": "/images/dress1.jpg",
             "description": "about dress 1",
             "price": 29.9,
-            "available sizes": [
+            "availableSizes": [
                 "XL",
                 "XXL"
             ]
         },
         {
-            "id": "dress2",
+            "id": "2",
             "title": "Dress 2",
             "image": "/images/dress2.jpg",
             "description": "about dress 2",
             "price": 18.9,
-            "available sizes": [
+            "availableSizes": [
+                "XS",
+                "M",
+                "L"
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Dress 3",
+            "image": "/images/dress3.jpg",
+            "description": "about dress 3",
+            "price": 24.9,
+            "availableSizes": [
+                "XL",
+                "M",
+                "S"
+            ]
+        },
+        {
+            "id": "4",
+            "title": "Dress 4",
+            "image": "/images/dress4.jpg",
+            "description": "about dress 4",
+            "price": 90.9,
+            "availableSizes": [
+                "XXL","S","L"
+            ]
+        },
+        {
+            "id": "5",
+            "title": "Dress 5",
+            "image": "/images/dress5.jpg",
+            "description": "about dress 5",
+            "price": 68.9,
+            "availableSizes": [
                 "X",
                 "M",
                 "L"
             ]
         },
         {
-            "id": "dress3",
-            "title": "Dress 3",
-            "image": "/images/dress3.jpg",
-            "description": "about dress 3",
-            "price": 24.9,
-            "available sizes": [
-                "XL",
-                "L",
-                "S"
-            ]
-        },
-        {
-            "id": "dress4",
-            "title": "Dress 4",
-            "image": "/images/dress4.jpg",
-            "description": "about dress 4",
-            "price": 90.9,
-            "available sizes": [
-                "XL",
-                "XXL","S","L"
-            ]
-        },
-        {
-            "id": "dress5",
-            "title": "Dress 5",
-            "image": "/images/dress5.jpg",
-            "description": "about dress 5",
-            "price": 68.9,
-            "available sizes": [
-                "X",
-                "M",
-                "L","XL"
-            ]
-        },
-        {
-            "id": "dress6",
+            "id": "6",
             "title": "Dress 6",
             "image": "/images/dress6.jpg",
             "description": "about dress 6",
             "price": 27.9,
-            "available sizes": [
+            "availableSizes": [
                 "XL",
-                "L",
                 "S","M"
             ]
         }
